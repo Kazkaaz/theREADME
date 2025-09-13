@@ -1,15 +1,23 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1292489645891911714/1414164631064285234/READMEbanner.png?ex=68be92f1&is=68bd4171&hm=6ce0e0fa680cd7d46bb78a8c9d269546cfd4581a98b68ccc97e8e41d623a00dc&=&format=webp&quality=lossless&width=3612&height=1806" alt="Project Logo" width="300"/>
-</p>
+  <a href="htps://github.com"><img src="https://media.discordapp.net/attachments/1292489645891911714/1414164631064285234/READMEbanner.png?ex=68c5d331&is=68c481b1&hm=4b57060c1ab540270ea7d62542fc8a1625cb066394c457550f84ac03714d1285&=&format=webp&quality=lossless&width=1768&height=884" alt="GitHub" height="150px"></a>
 
-## A repository to help you make your readme and save time 📄✍️
+#### **_Faster READMES. For you._**
+#### **_Copy and paste READMES that you can edit_**
 
-## 🧑‍💻 Authors
+---
 
-* [@Kazkaaz](https://github.com/Kazkaaz)
+# 👨‍💻 **Author**
 
-## 📄 License
+**[@kazkaaz](https://github.com/kazkaaz)**
 
-This project is using [MIT license](https://choosealicense.com/licenses/mit/)
 
-[![MIT License](https://img.shields.io/badge/License%3A_MIT-blue?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+---
+
+
+# 📄 **Lisence**
+
+## **Mit**
+
+---
+
+#### This README is made with [theREADME](https://github.com/kazkaaz/theREADME).
